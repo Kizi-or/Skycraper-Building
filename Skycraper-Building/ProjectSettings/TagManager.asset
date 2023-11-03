@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - MapSelectButton
+  - Boost
+  - Block
+  - Destroyer
+  - StartBlock
+  - Plane
   layers:
   - Default
   - TransparentFX
